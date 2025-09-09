@@ -7,6 +7,14 @@ import add_song from './add_song.png'
 import song_icon from './song_icon.png'
 import album_icon from './album_icon.png'
 import upload_song from './upload_song.png'
+import home_icon from './home.png'
+import search_icon from './search.png'
+import stack_icon from './stack.png'
+import arrow_icon from './arrow.png'
+import plus_icon from './plus.png'
+import prev_icon from './prev.png'
+import play_icon from './play.png'
+
 
 export const assets ={
     logo,
@@ -17,6 +25,14 @@ export const assets ={
     add_song,
     song_icon,
     album_icon,
-    upload_song
+    upload_song,
+    home_icon,
+    search_icon,
+    stack_icon,
+    arrow_icon,
+    play_icon,
+    plus_icon,
+    prev_icon,
+    
 }
 
