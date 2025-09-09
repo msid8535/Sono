@@ -5,7 +5,7 @@
 
 ## How It's Made:
 
-**Tech used:** React, MongoDB, Express, Node JS TailwindCSS
+**Tech used:** React, MongoDB, Express, Node JS
 
 
 
