@@ -22,16 +22,21 @@ import song1 from './song1.mp3'
 import song2 from './song2.mp3'
 import song3 from './song3.mp3'
 import img1 from './img1.jpg'
-import img2 from './img1.jpg'
-import img3 from './img1.jpg'
+import img2 from './img2.jpg'
+import img3 from './img3.jpg'
 import mic_icon from './mic.png'
 import queue_icon from './queue.png'
 import speaker_icon from './speaker.png'
 import volume_icon from './volume.png'
 import mini_player_icon from './mini-player.png'
 import zoom_icon from './zoom.png'
+import arrow_left from './left_arrow.png'
+import arrow_right from './right_arrow.png'
+
 
 export const assets ={
+    arrow_right,
+    arrow_left,
     mic_icon,
     queue_icon,
     speaker_icon,
@@ -78,7 +83,7 @@ export const songsData =[
         name: "Rainberry",
         image: img2,
         file: song2,
-        desc: "Zayn Malik",
+        desc: "Zayn",
         duration: "2:20"
     },
 
