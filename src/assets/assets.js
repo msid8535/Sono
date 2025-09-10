@@ -14,15 +14,30 @@ import arrow_icon from './arrow.png'
 import plus_icon from './plus.png'
 import prev_icon from './prev.png'
 import play_icon from './play.png'
+import plays_icon from './plays.png'
+import shuffle_icon from './shuffle.png'
+import loop_icon from './loop.png'
+import next_icon from './next.png'
 import song1 from './song1.mp3'
 import song2 from './song2.mp3'
 import song3 from './song3.mp3'
 import img1 from './img1.jpg'
 import img2 from './img1.jpg'
 import img3 from './img1.jpg'
-
+import mic_icon from './mic.png'
+import queue_icon from './queue.png'
+import speaker_icon from './speaker.png'
+import volume_icon from './volume.png'
+import mini_player_icon from './mini-player.png'
+import zoom_icon from './zoom.png'
 
 export const assets ={
+    mic_icon,
+    queue_icon,
+    speaker_icon,
+    volume_icon,
+    mini_player_icon,
+    zoom_icon,
     logo,
     logo_small,
     upload_area,
@@ -37,8 +52,12 @@ export const assets ={
     stack_icon,
     arrow_icon,
     play_icon,
+    plays_icon,
     plus_icon,
     prev_icon,
+    next_icon,
+    loop_icon,
+    shuffle_icon,
     img1,
     img2,
     img3
