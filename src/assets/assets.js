@@ -14,6 +14,12 @@ import arrow_icon from './arrow.png'
 import plus_icon from './plus.png'
 import prev_icon from './prev.png'
 import play_icon from './play.png'
+import song1 from './song1.mp3'
+import song2 from './song2.mp3'
+import song3 from './song3.mp3'
+import img1 from './img1.jpg'
+import img2 from './img1.jpg'
+import img3 from './img1.jpg'
 
 
 export const assets ={
@@ -33,6 +39,38 @@ export const assets ={
     play_icon,
     plus_icon,
     prev_icon,
-    
+    img1,
+    img2,
+    img3
 }
+
+export const songsData =[
+    {
+        id:0,
+        name: "Wildest Dreams",
+        image: img1,
+        file: song1,
+        desc: "Taylor Swift",
+        duration: "3:00"
+    },
+
+    {
+        id:1,
+        name: "Rainberry",
+        image: img2,
+        file: song2,
+        desc: "Zayn Malik",
+        duration: "2:20"
+    },
+
+    {
+        id:2,
+        name: "Biting My Tongue",
+        image: img3,
+        file: song3,
+        desc: "Joshua Bassett",
+        duration: "3:10"
+    },
+]
+
 
