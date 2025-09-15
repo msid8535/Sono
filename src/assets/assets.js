@@ -52,6 +52,7 @@ import spotify_logo from './spotify_logo.png'
 import clock_icon from './clock_icon.png'
 
 export const assets ={
+    clock_icon,
     arrow_right,
     arrow_left,
     mic_icon,
@@ -82,7 +83,8 @@ export const assets ={
     shuffle_icon,
     img1,
     img2,
-    img3
+    img3,
+    spotify_logo
 }
 
 export const songsData =[
